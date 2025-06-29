@@ -13,7 +13,8 @@ DATOS_PAISES = {
         "dato_turistico": "Hogar del tango y de la vasta Patagonia.",
         "hemisferio": "Sur",
         "moneda_codigo": "ARS",
-        "moneda_nombre": "Peso Argentino"
+        "moneda_nombre": "Peso Argentino",
+        "bandera_img": "ar.png"
     },
     "Japón": {
         "timezone": "Asia/Tokyo",
@@ -21,7 +22,8 @@ DATOS_PAISES = {
         "dato_turistico": "Conocido por sus templos, el Monte Fuji y la flor de cerezo.",
         "hemisferio": "Norte",
         "moneda_codigo": "JPY",
-        "moneda_nombre": "Yen Japonés"
+        "moneda_nombre": "Yen Japonés",
+        "bandera_img": "jp.png"
     },
     "Estados Unidos": {
         "timezone": "America/New_York",
@@ -29,7 +31,8 @@ DATOS_PAISES = {
         "dato_turistico": "Famoso por la Estatua de la Libertad y el Gran Cañón.",
         "hemisferio": "Norte",
         "moneda_codigo": "USD",
-        "moneda_nombre": "Dólar estadounidense"
+        "moneda_nombre": "Dólar estadounidense",
+        "bandera_img": "us.png"
     },
     "Canadá": {
         "timezone": "America/Toronto",
@@ -37,7 +40,8 @@ DATOS_PAISES = {
         "dato_turistico": "Conocido por sus paisajes naturales como las Cataratas del Niágara.",
         "hemisferio": "Norte",
         "moneda_codigo": "CAD",
-        "moneda_nombre": "Dólar canadiense"
+        "moneda_nombre": "Dólar canadiense",
+        "bandera_img": "ca.png"
     },
     "México": {
         "timezone": "America/Mexico_City",
@@ -45,7 +49,8 @@ DATOS_PAISES = {
         "dato_turistico": "Hogar de las antiguas ruinas mayas y aztecas.",
         "hemisferio": "Norte",
         "moneda_codigo": "MXN",
-        "moneda_nombre": "Peso mexicano"
+        "moneda_nombre": "Peso mexicano",
+        "bandera_img": "me.png"
     },
     "Brasil": {
         "timezone": "America/Sao_Paulo",
@@ -53,7 +58,8 @@ DATOS_PAISES = {
         "dato_turistico": "Famoso por el Cristo Redentor y el Carnaval de Río.",
         "hemisferio": "Sur",
         "moneda_codigo": "BRL",
-        "moneda_nombre": "Real brasileño"
+        "moneda_nombre": "Real brasileño",
+        "bandera_img": "br.png"
     },
     "Colombia": {
         "timezone": "America/Bogota",
@@ -61,7 +67,8 @@ DATOS_PAISES = {
         "dato_turistico": "Reconocida por el café y Cartagena de Indias.",
         "hemisferio": "Norte",
         "moneda_codigo": "COP",
-        "moneda_nombre": "Peso colombiano"
+        "moneda_nombre": "Peso colombiano",
+        "bandera_img": "co.png"
     },
     "Chile": {
         "timezone": "America/Santiago",
@@ -69,7 +76,8 @@ DATOS_PAISES = {
         "dato_turistico": "Conocido por el desierto de Atacama y la Patagonia.",
         "hemisferio": "Sur",
         "moneda_codigo": "CLP",
-        "moneda_nombre": "Peso chileno"
+        "moneda_nombre": "Peso chileno",
+        "bandera_img": "ch.png"
     },
     "Perú": {
         "timezone": "America/Lima",
@@ -77,7 +85,8 @@ DATOS_PAISES = {
         "dato_turistico": "Famoso por Machu Picchu y la cultura incaica.",
         "hemisferio": "Sur",
         "moneda_codigo": "PEN",
-        "moneda_nombre": "Sol peruano"
+        "moneda_nombre": "Sol peruano",
+        "bandera_img": "pe.png"
     },
     "España": {
         "timezone": "Europe/Madrid",
@@ -85,7 +94,8 @@ DATOS_PAISES = {
         "dato_turistico": "Conocida por su arquitectura, gastronomía y flamenco.",
         "hemisferio": "Norte",
         "moneda_codigo": "EUR",
-        "moneda_nombre": "Euro"
+        "moneda_nombre": "Euro",
+        "bandera_img": "sp.png"
     },
     "Francia": {
         "timezone": "Europe/Paris",
@@ -93,7 +103,8 @@ DATOS_PAISES = {
         "dato_turistico": "Famosa por la Torre Eiffel y los vinos.",
         "hemisferio": "Norte",
         "moneda_codigo": "EUR",
-        "moneda_nombre": "Euro"
+        "moneda_nombre": "Euro",
+        "bandera_img": "fr.png"
     },
     "Italia": {
         "timezone": "Europe/Rome",
@@ -101,7 +112,8 @@ DATOS_PAISES = {
         "dato_turistico": "Cuna del Imperio Romano y la pizza.",
         "hemisferio": "Norte",
         "moneda_codigo": "EUR",
-        "moneda_nombre": "Euro"
+        "moneda_nombre": "Euro",
+        "bandera_img": "it.png"
     },
     "Alemania": {
         "timezone": "Europe/Berlin",
@@ -109,7 +121,8 @@ DATOS_PAISES = {
         "dato_turistico": "Reconocido por el Muro de Berlín y sus castillos.",
         "hemisferio": "Norte",
         "moneda_codigo": "EUR",
-        "moneda_nombre": "Euro"
+        "moneda_nombre": "Euro",
+        "bandera_img": "gm.png"
     },
     "Reino Unido": {
         "timezone": "Europe/London",
@@ -117,7 +130,8 @@ DATOS_PAISES = {
         "dato_turistico": "Famoso por el Big Ben y Buckingham Palace.",
         "hemisferio": "Norte",
         "moneda_codigo": "GBP",
-        "moneda_nombre": "Libra esterlina"
+        "moneda_nombre": "Libra esterlina",
+        "bandera_img": "uk.png"
     },
     "Portugal": {
         "timezone": "Europe/Lisbon",
@@ -125,7 +139,8 @@ DATOS_PAISES = {
         "dato_turistico": "Destacado por sus playas y el fado.",
         "hemisferio": "Norte",
         "moneda_codigo": "EUR",
-        "moneda_nombre": "Euro"
+        "moneda_nombre": "Euro",
+        "bandera_img": "po.png"
     },
     "Países Bajos": {
         "timezone": "Europe/Amsterdam",
@@ -133,7 +148,8 @@ DATOS_PAISES = {
         "dato_turistico": "Conocido por sus canales, molinos y tulipanes.",
         "hemisferio": "Norte",
         "moneda_codigo": "EUR",
-        "moneda_nombre": "Euro"
+        "moneda_nombre": "Euro",
+        "bandera_img": "ne.png"
     },
     "Suiza": {
         "timezone": "Europe/Zurich",
@@ -141,7 +157,8 @@ DATOS_PAISES = {
         "dato_turistico": "Famosa por los Alpes y el chocolate.",
         "hemisferio": "Norte",
         "moneda_codigo": "CHF",
-        "moneda_nombre": "Franco suizo"
+        "moneda_nombre": "Franco suizo",
+        "bandera_img": "sw.png"
     }
 }
 # Tasa para convertir de nuestra moneda base (ARS) a la moneda de referencia (USD)
