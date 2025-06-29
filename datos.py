@@ -144,3 +144,23 @@ DATOS_PAISES = {
         "moneda_nombre": "Franco suizo"
     }
 }
+# Tasa para convertir de nuestra moneda base (ARS) a la moneda de referencia (USD)
+# Este es un valor de ejemplo.
+TASA_ARS_A_USD = 0.00084 # Ejemplo: 1 USD = ~1190 ARS
+
+# Tasas de cambio de referencia. Usamos el dólar como base.
+# La idea es: 1 USD = X de la moneda local.
+TASAS_A_USD = {
+    "ARS": 1190.48,
+    "EUR": 0.85,
+    "JPY": 144.88,
+    "USD": 1.0,
+    "CAD": 1.37,
+    "MXN": 18.82,
+    "BRL": 5.48,
+    "COP": 4088.25,
+    "CLP": 943.40,
+    "PEN": 3.55,
+    "GBP": 0.73,
+    "CHF": 0.80
+}
