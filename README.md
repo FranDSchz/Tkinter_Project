@@ -20,8 +20,6 @@ Las características principales implementadas son:
 * **Panel Informativo:** Proporciona datos útiles como el idioma oficial, la estación del año actual, un dato curioso y la bandera del país.
 * **Diferencia Horaria:** Calcula y muestra la diferencia horaria entre el país seleccionado y Argentina.
 * **Conversor de Divisas:** Permite convertir un monto desde Pesos Argentinos (ARS) a la moneda local del país seleccionado utilizando tasas de cambio fijas.
-* **Interfaz Personalizable:** Incluye un interruptor para cambiar entre un tema visual claro y uno oscuro.
-
 ---
 
 ## 💻 Procedimiento de Ejecución
